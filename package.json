@@ -1,0 +1,16 @@
+{
+  "name": "codingassignment",
+  "version": "1.0.0",
+  "description": "Week 10 coding assignment",
+  "license": "ISC",
+  "author": "Hailey Spitz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
+  }
+}
